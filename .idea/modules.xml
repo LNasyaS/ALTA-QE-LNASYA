@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ALTA-QE-LNASYA.iml" filepath="$PROJECT_DIR$/.idea/ALTA-QE-LNASYA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic-programming/basic-programming.iml" filepath="$PROJECT_DIR$/basic-programming/basic-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object-oriented-programming/object-oriented-programming.iml" filepath="$PROJECT_DIR$/object-oriented-programming/object-oriented-programming.iml" />
+    </modules>
+  </component>
+</project>
